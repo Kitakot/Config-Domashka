@@ -1,0 +1,13 @@
+{
+  ITEMS : {
+    SWORD : 1,
+    SHIELD : 2,
+    POTION : 6
+  },
+  GOLD : 70,
+  STATS : {
+    HP : 100,
+    DAMAGE : 121,
+    SPEED : 50
+  }
+}

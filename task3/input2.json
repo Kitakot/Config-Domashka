@@ -1,0 +1,14 @@
+{
+    "ITEMS": {
+      "SWORD": 1,
+      "SHIELD": 2,
+      "POTION": "|* 3 2|"
+    },
+    "GOLD": "|- 100 30|",
+    "STATS": {
+        "HP" : "|min 100 500|",
+        "DAMAGE" : "|pow 11 2|",
+        "SPEED" : "|min 70 127 50|"
+    }
+  }
+  

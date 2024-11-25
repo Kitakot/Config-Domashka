@@ -1,0 +1,12 @@
+{
+    "HOST": {
+      "PARTONE": 192,
+      "PARTTWO": 168,
+      "PARTTHREE": 0,
+      "PARTFOUR": 1
+    },
+    "PORT": 8080,
+    "RETRYLIMIT": "|+ 3 2|",
+    "TIMEOUT": 30
+  }
+  
